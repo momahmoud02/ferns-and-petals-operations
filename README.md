@@ -2,6 +2,8 @@
 
 An Excel workbook that models customers, orders, products, and operations data, then presents them in an interactive dashboard.
 
+![Ferns & Petals operations dashboard](assets/dashboard.png)
+
 ## Overview
 
 | Item | Detail |
@@ -37,6 +39,8 @@ An Excel workbook that models customers, orders, products, and operations data, 
 ```text
 ferns-and-petals-operations/
 |-- Ferns_and_Petals_Operations.xlsx
+|-- assets/
+|   `-- dashboard.png
 `-- README.md
 ```
 
