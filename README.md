@@ -20,9 +20,9 @@ An Excel workbook that models customers, orders, products, and operations data, 
 | `Orders` | 1,000 | Order lines with dates, quantities, location, and occasion |
 | `Products` | 70 | Product catalogue, category, price (INR), and occasion |
 | `Ops_Data` | 34 | Operational reference data |
-| `Sheet2` | 128 | Supporting analysis |
-| `Sheet3` | 9 | Supporting analysis |
-| `Dashborad` | - | Interactive dashboard |
+| `Source_Data_1` | 128 | Supporting analysis |
+| `Source_Data_2` | 9 | Supporting analysis |
+| `Dashboard` | - | Interactive dashboard |
 
 ## Analysis areas
 
@@ -48,7 +48,7 @@ ferns-and-petals-operations/
 
 ## Data notes
 
-- The dataset is a sample retail operations case study used for analysis practice.
+- The dataset is a representative retail operations sample prepared for this analysis.
 - All customer contact details in the published workbook are placeholders; no real personal data is included.
 - Prices are in Indian rupees (INR) as provided in the source data.
 
